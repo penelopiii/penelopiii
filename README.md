@@ -24,7 +24,8 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 
  <img src="./neo-violet/java.svg" width="45" height="45" alt="java"/>
  <img src="./neo-violet/springboot.svg" width="45" height="45" alt="springboot"/>
+ <img src="./neo-violet/mongodb.svg" width="45" height="45" alt="mongodb"/>
 
-    </td>
+  </td>
   </tr>
 </table>
