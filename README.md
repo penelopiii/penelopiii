@@ -20,11 +20,12 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
   </td>
    <td width="100%">
 
-### Backend
+### Backend & Database
 
  <img src="./neo-violet/java.svg" width="45" height="45" alt="java"/>
  <img src="./neo-violet/springboot.svg" width="45" height="45" alt="springboot"/>
- <img src="./neo-violet/mongodb.svg" width="45" height="45" alt="mongodb"/>
+ <img src="./neo-violet/mysql.svg" width="45" height="45" alt="mysql"/>
+ <img src="./neo-violet/postman.svg" width="45" height="45" alt="postman"/>
 
   </td>
   </tr>
