@@ -22,7 +22,8 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 
 ### Backend
 
-- Java
+ <img src="./neo-violet/java.svg" width="45" height="45" alt="java"/>
+ <img src="./neo-violet/springboot.svg" width="45" height="45" alt="springboot"/>
 
     </td>
   </tr>
