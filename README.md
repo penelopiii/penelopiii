@@ -1,8 +1,7 @@
-# Hey, I'm Pen.
+### Hello, I'm Pen.
+An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development, and 3D Models** while continuously building my skills in full-stack development up to Software Engineering or DevOps.
 
-I work across **UI/UX, frontend development, and creatives**, while continuously building my skills in full-stack development up to Software Engineering or DevOps.
-
-## Current Tech Stack
+## Current Tech Stack & Software Tools
 ### Frontend
 
 <p align="left">
