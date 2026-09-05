@@ -9,11 +9,11 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 ### Frontend
 
 <p align="left">
-   <img src="./neo-violet/html.svg" width="45" height="35" alt="html"/>
-   <img src="./neo-violet/react.svg" width="45" height="35" alt="react"/>
-   <img src="./neo-violet/typescript.svg" width="45" height="35" alt="typescript"/>
-   <img src="./neo-violet/javascript.svg" width="45" height="35" alt="javascript"/>
-   <img src="./neo-violet/tailwind.svg" width="45" height="35" alt="tailwind"/>
+   <img src="./neo-violet/html.svg" width="45" height="45" alt="html"/>
+   <img src="./neo-violet/react.svg" width="45" height="45" alt="react"/>
+   <img src="./neo-violet/javascript.svg" width="45" height="45" alt="javascript"/>
+   <img src="./neo-violet/typescript.svg" width="45" height="45" alt="typescript"/>
+   <img src="./neo-violet/tailwind.svg" width="45" height="45" alt="tailwind"/>
 
 </p>
 
