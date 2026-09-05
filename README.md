@@ -4,29 +4,29 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 ## Current Tech Stack & Software Tools
 <table>
   <tr>
-    <td width="100%">
-
+    <td width="50%">
+      
 ### Frontend
 
 <p align="left">
-   <img src="./neo-violet/html.svg" width="45" height="45" alt="html"/>
-   <img src="./neo-violet/react.svg" width="45" height="45" alt="react"/>
-   <img src="./neo-violet/javascript.svg" width="45" height="45" alt="javascript"/>
-   <img src="./neo-violet/typescript.svg" width="45" height="45" alt="typescript"/>
-   <img src="./neo-violet/tailwind.svg" width="45" height="45" alt="tailwind"/>
-
+   <img src="./neo-violet/html.svg" width="40" height="40" alt="html"/>
+   <img src="./neo-violet/react.svg" width="40" height="40" alt="react"/>
+   <img src="./neo-violet/javascript.svg" width="40" height="40" alt="javascript"/>
+   <img src="./neo-violet/typescript.svg" width="40" height="40" alt="typescript"/>
+   <img src="./neo-violet/tailwind.svg" width="40" height="40" alt="tailwind"/>
 </p>
-
-  </td>
-   <td width="100%">
-
+      </td>
+    <td width="50%">
+      
 ### Backend & Database
 
- <img src="./neo-violet/java.svg" width="45" height="45" alt="java"/>
- <img src="./neo-violet/springboot.svg" width="45" height="45" alt="springboot"/>
- <img src="./neo-violet/mysql.svg" width="45" height="45" alt="mysql"/>
- <img src="./neo-violet/postman.svg" width="45" height="45" alt="postman"/>
+<p align="left">
+   <img src="./neo-violet/java.svg" width="40" height="40" alt="java"/>
+   <img src="./neo-violet/springboot.svg" width="40" height="40" alt="springboot"/>
+   <img src="./neo-violet/mysql.svg" width="40" height="40" alt="mysql"/>
+   <img src="./neo-violet/postman.svg" width="40" height="40" alt="postman"/>
+</p>
 
-  </td>
+   </td>
   </tr>
 </table>
