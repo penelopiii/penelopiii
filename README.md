@@ -9,11 +9,7 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 ### Frontend
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="35" height="35" alt="React"/>
-  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="35" height="35" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="35" height="35" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css/FFFFFF" width="35" height="35" alt="CSS3"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="35" height="35" alt="Tailwind CSS"/>
+   <img src="./assets/orange-version/git.svg" width="35" height="35" alt="git"/>
 </p>
 
   </td>
@@ -22,9 +18,6 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 ### Backend
 
 - Java
-- Spring Boot
-- MySQL
-- Postman
 
     </td>
   </tr>
