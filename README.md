@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Pen.
 
-<!--
-**penelopiii/penelopiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across **UI/UX, frontend development, and creatives**, while continuously building my skills in full-stack development up to Software Engineering or DevOps.
 
-Here are some ideas to get you started:
+## Current Tech Stack
+### Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="35" height="35" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="35" height="35" alt="React"/>
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="35" height="35" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="35" height="35" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="35" height="35" alt="Tailwind CSS"/>
+</p>
+
+<!-- `HTML` . `React` · `TypeScript` · `JavaScript` . `Tailwind CSS` -->
+### Backend
+
+`Java` · `Spring Boot`
