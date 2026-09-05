@@ -15,10 +15,5 @@ I work across **UI/UX, frontend development, and creatives**, while continuously
 
 <!-- `HTML` . `React` · `TypeScript` · `JavaScript` . `Tailwind CSS` -->
 ### Backend
-<img
-  src="./assets/springboot-github.svg"
-  width="40"
-  height="40"
-  alt="SpringBoot"
-/>
+
 <!--`Java` · `Spring Boot`-->
