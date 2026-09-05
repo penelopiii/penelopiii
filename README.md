@@ -9,7 +9,9 @@ An IT Graduate and Work across **UI/UX Designer, Creatives, Software Development
 ### Frontend
 
 <p align="left">
-   <img src="./assets/orange-version/git.svg" width="35" height="35" alt="git"/>
+   <img src="./assets/html.svg" width="35" height="35" alt="html"/>
+   <img src="./assets/react.svg" width="35" height="35" alt="react"/>
+
 </p>
 
   </td>
