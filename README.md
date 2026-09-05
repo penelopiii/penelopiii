@@ -2,9 +2,6 @@
 An IT Fresh Graduate and work across `UI/UX Designer,` `Creatives,` `Software Development,` and `3D Models` while continuously building my skills in full-stack development up to **Software Engineering** or **DevOps.**
 
 ## Current Tech-Stack
-<table>
-  <tr>
-    <td>
       
 ### Frontend
 
@@ -15,8 +12,7 @@ An IT Fresh Graduate and work across `UI/UX Designer,` `Creatives,` `Software De
    <img src="./neo-violet/typescript.svg" width="40" height="40" alt="typescript"/>
    <img src="./neo-violet/tailwind.svg" width="40" height="40" alt="tailwind"/>
 </p>
-      </td>
-    <td>
+
       
 ### Backend & Database
 
@@ -26,8 +22,7 @@ An IT Fresh Graduate and work across `UI/UX Designer,` `Creatives,` `Software De
    <img src="./neo-violet/mysql.svg" width="40" height="40" alt="mysql"/>
 </p>
 
-   </td>
-    <td>
+
       
 ### Tools
 
@@ -38,8 +33,6 @@ An IT Fresh Graduate and work across `UI/UX Designer,` `Creatives,` `Software De
    <img src="./neo-violet/postman.svg" width="40" height="40" alt="postman"/>
 </p>
 
-   </td>
-   <td>
       
 ### Creative Software Tools
 
@@ -50,6 +43,4 @@ An IT Fresh Graduate and work across `UI/UX Designer,` `Creatives,` `Software De
   <img src="./neo-violet/illustrator.svg" width="40" height="40" alt="illustrator"/>
 </p>
 
-   </td>
-  </tr>
-</table>
+
